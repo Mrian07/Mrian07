@@ -10,7 +10,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 </a>
 <br />
 
-Hi, I'm Mrian a develop engineer from indonesia
+<b>To Create A Taste For Life</b>
 
 <a href="#"><img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200 " height="200" /></a>
 
