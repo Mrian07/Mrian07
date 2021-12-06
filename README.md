@@ -1,9 +1,12 @@
-<h1 align="center">Hi there, I'm <a href="https://www.blackcater.win/" target="_blank">Mrian</a> <img
+<h1 align="center">Hi there, I'm <a href="https://github.com/Mrian07" target="_blank">Mrian</a> <img
 src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 
 <br />
 <a href="mailto:i@m.trimulyanto11@gmail.com">
   <img src="https://github.com/blackcater/blackcater/raw/main/images/social-gmail.svg" height="40" />
+</a>
+<a href="#">
+  <img src="https://github.com/blackcater/blackcater/raw/main/images/social-github.svg" height="40" />
 </a>
 <br />
 
@@ -12,8 +15,6 @@ Hi, I'm Mrian a develop engineer from indonesia
 <a href="#"><img align="right" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="200 " height="200" /></a>
 
 
-
-<!-- wakatime_plugin_start -->
 
 ## 🌗 Weekly Development Breakdown
 
