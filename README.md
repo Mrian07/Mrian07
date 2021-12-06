@@ -12,8 +12,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 Hi, I'm Mrian a develop engineer from indonesia
 
-<a href="#"><img align="right" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="200 " height="200" /></a>
-
+<a href="#"><img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200 " height="200" /></a>
 
 
 ## 🌗 Weekly Development Breakdown
