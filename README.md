@@ -1,41 +1,32 @@
-<h1 align="center">Hi there, I'm <a href="https://github.com/Mrian07" target="_blank">Mrian</a> <img
-src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
-
-<br />
-<a href="mailto:i@m.trimulyanto11@gmail.com">
-  <img src="https://github.com/blackcater/blackcater/raw/main/images/social-gmail.svg" height="40" />
-</a>
-<a href="#">
-  <img src="https://github.com/blackcater/blackcater/raw/main/images/social-github.svg" height="40" />
-</a>
-<br />
-
-<b>To Create A Taste For Life</b>
-
-<a href="#"><img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200 " height="200" /></a>
 
 
-## 🌗 Weekly Development Breakdown
-
-```text
-JavaScript  13 hrs 26 mins █████████████████░░░░  81.9%
-TypeScript  59 mins        ████████████████░░░░░  80.1%
-JSON        56 mins        ████████░░░░░░░░░░░░░  40.7%
-PHP         39 mins        ███████████████████░░  90.2%
-CSS         10 mins        █████████████████░░░░  81.9%
-```
-
-<!-- wakatime_plugin_end -->
-
-**Languages and Tools:**
-
-<p>
-<img src="https://github.com/blackcater/blackcater/raw/main/images/logo-javascript.svg" height="40" style="vertical-align:down; margin:4px" alt="javascript">
-<img src="https://cdn-images-1.medium.com/max/280/1*X5PBTDQQ2Csztg3a6wofIQ@2x.png" height="40" style="vertical-align:down; margin:4px" alt="flutter">
-<img src="https://github.com/blackcater/blackcater/raw/main/images/logo-nodejs.svg" height="40" style="vertical-align:down; margin:4px" alt="nodejs">
-<img src="https://ionicframework.com/img/meta/logo.png" height="40" style="vertical-align:down; margin:4px" alt="ionic">  
-<img src="https://github.com/blackcater/blackcater/raw/main/images/logo-typescript.svg" height="40" style="vertical-align:down; margin:4px" alt="typescript">
+<p align="center">
+  &nbsp;
+  &nbsp;
+  <img align="center" src="https://raw.githubusercontent.com/mkiisoft/flutter-gallery/master/assets/images/flutter_badge.png" width="12%"/>
+  </p>
 </p>
 
-<!-- badge_plugin_start -->
+<p align="center">
+<a href="https://github.com/Mrian07">
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Mrian07&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="Mrian07"/>
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mrian07&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="Mrian07"/>
+</a>
+</p>
+
+<div align="center">
+  <h3 align="center">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
+</div>
+<p align="center">
+ <a href="https://www.linkedin.com/in/msalihguler/" target=”_blank”>
+  <img align="center" alt="Pramod's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
+ </a>
+ <a href="https://twitter.com/Mrian07" target=”_blank”>
+  <img align="center" alt="Pramod's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" /> &nbsp; &nbsp;
+ </a>
+ <a href="https://medium.com/@Mrian07" target=”_blank”>
+  <img align="center" alt="Pramod's Medium" width="30px" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" />
+ </a> 
+</p>
+
 
